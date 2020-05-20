@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1589968944 source:c:\users\abc\documents\gametetris\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"game.h"
+	<ctime>
+
+1589968944 c:\users\abc\documents\gametetris\include\game.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1589968944 source:c:\users\abc\documents\gametetris\src\game.cpp
+	"game.h"
+
